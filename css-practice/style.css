@@ -1,0 +1,40 @@
+.centerText {
+    text-align: center;
+}
+
+.redText {
+    color: red;
+}
+.blueText{
+    color: blue;
+}
+.greenText{
+    color: green;
+}
+.bigText{
+    font-size: x-large;
+}
+.tinyFont{
+    font-size: x-small;
+}
+.boldText{
+    font-weight: bold;
+}
+.fontText{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.customText{
+    font-weight: bold;
+    font-size: x-large;
+    color: orange;
+}
+.styledFont{
+    color: green;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif
+}
+#styledImage{
+    border: solid;
+    border-color: orange;
+    border-width: thick;
+}
